@@ -1,12 +1,13 @@
+# **Password Generator**
 This is a Python script that generates secure random passwords with customizable lengths.
 
-Features:
+## **Features**
 
 Generates secure passwords using Python’s secrets module.
-Customizable password length (default: 16, minimum: 8).
+Customizable password length (default 16, minimum 8).
 Includes uppercase letters, lowercase letters, digits, and special characters.
 
-How to Use:
+## **How to Use**
 
 Clone the repository:
 git clone https://github.com/marioo00/password-generator.git
